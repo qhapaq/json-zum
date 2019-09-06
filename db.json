@@ -1,0 +1,89 @@
+{
+    "app": {
+      "name": "Nombre de canal",
+      "logo": "/temp/img/logo.png",
+      "languajes": [
+        {
+          "label": "Español",
+          "value": "es-PE"
+        }, {
+          "label": "English",
+          "value": "en-US"
+        }
+      ]
+    },
+    "landing": [
+      {
+        "type": "hero",
+        "fields": {
+          "title": "Protege lo que más te importa, 100% online",
+          "description": "¡Adiós papeleo! Adquiere tu seguro de manera rápida y sencilla.",
+          "buttonText": "Cotiza tu seguro",
+          "image": {
+            "xs": "/temp/img/hero-img-sm.jpg",
+            "xl": "/temp/img/hero-img-xl.jpg"
+          }
+        }
+      }, {
+        "type": "beneficios",
+        "label": "Beneficios"
+      }, {
+        "type": "planes",
+        "label": "Planes"
+      }, {
+        "type": "coberturas",
+        "label": "Coberturas"
+      }, {
+        "type": "exclusiones",
+        "label": "Exclusiones"
+      }, {
+        "type": "contacto",
+        "label": "Contacto"
+      }, {
+        "type": "testimonials",
+        "title": "Qué dicen nuestros clientes",
+        "description": "palabras de quienes eligieron nuestros productos",
+        "sections": [
+          {
+            "title": "Martín Lopez, 33 años",
+            "description": "Me encanta el servicio que ofrece esta compañía, Puedo consultar con mi asesor siempre que sea necesario",
+            "image": "http://qa.oauth.hellozumseguros.com/authServer/proyectosec/v4/images/powered-by-zum.png"
+          }, {
+            "title": "Martín Lopez, 33 años",
+            "description": "Me encanta el servicio que ofrece esta compañía, Puedo consultar con mi asesor siempre que sea necesario",
+            "image": "http://qa.oauth.hellozumseguros.com/authServer/proyectosec/v4/images/powered-by-zum.png"
+          }, {
+            "title": "Martín Lopez, 33 años",
+            "description": "Me encanta el servicio que ofrece esta compañía, Puedo consultar con mi asesor siempre que sea necesario",
+            "image": "http://qa.oauth.hellozumseguros.com/authServer/proyectosec/v4/images/powered-by-zum.png"
+          }
+        ]
+      }, {
+        "type": "questions",
+        "title": "Preguntas frecuentes",
+        "description": "Te ayudamos a resolver tus dudas",
+        "sections": [
+          {
+            "title": "¿Qué pasa si me atraso en el pago de la prima de mi seguro?",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+          }, {
+            "title": "¿Para qué sirve un seguro de salud?",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+          }, {
+            "title": "¿Quiénes pueden ser dependientes de mi seguro y cómo agregarlos?",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+          }, {
+            "title": "¿Quiénes pueden ser dependientes de mi seguro y cómo agregarlos?",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+          }, {
+            "title": "¿Quiénes pueden ser dependientes de mi seguro y cómo agregarlos?",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+          }, {
+            "title": "¿Quiénes pueden ser dependientes de mi seguro y cómo agregarlos?",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+          }
+        ]
+      }
+    ]
+  }
+  
